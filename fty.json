@@ -1,5 +1,5 @@
 {
-  "spider": "./jar/danmu.jar;md5;924bd95dce1cd389c13fe5e19eedf8ba",
+  "spider": "./jar/danmu.jar;md5;30f9d78ce52e8555126134401b1dd97b",
   "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
   "sites": [
     {
@@ -313,6 +313,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": {
+        "site": "https://www.yjys01.com",
         "danmu": true
       }
     },
